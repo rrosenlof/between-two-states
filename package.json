@@ -1,6 +1,6 @@
 {
     "name": "between-two-states",
-    "version": "1.0.11",
+    "version": "1.1.0",
     "description": "to find the number of US states in between any two US states... :)",
     "main": "index.js",
     "scripts": {
@@ -8,13 +8,9 @@
     },
     "repository": {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/rrosenlof/between-two-states"
     },
     "author": "rrosenlof",
-    "license": "ISC",
-    "bugs": {
-      "url": ""
-    },
-    "homepage": ""
+    "license": "ISC"
   }
   

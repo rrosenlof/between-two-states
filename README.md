@@ -1,0 +1,3 @@
+# About
+
+A simple NPM package to find the number of US states in between any two US states. Only includes the lower 48, for now...
